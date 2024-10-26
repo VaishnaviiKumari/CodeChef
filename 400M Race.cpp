@@ -1,6 +1,5 @@
 //Difficulty:  548 
-//400M Race
-
+ 
 #include <bits/stdc++.h>
 using namespace std;
 
