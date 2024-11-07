@@ -6,7 +6,7 @@ int main() {
 	cin>>t;
 	while(t--){
 	    int n;
-	    cin>>n;
+	    cin>>n; 
 	    
 	    int ans=0;
 	    while(n != 50){
