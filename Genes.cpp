@@ -4,7 +4,7 @@ using namespace std;
 int main() { 
 	// your code goes here   
 	string a,b;
-	cin>>a>>b;
+	cin>>a>>b; 
 	
 	if((a=="R" && b=="B") || (b=="R" && a=="B")){
 	    cout<<"R"<<endl;
