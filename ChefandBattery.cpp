@@ -8,7 +8,7 @@ int main() {
 	    int n; 
 	    cin>>n; 
 	    
-	    int ans=0;
+	    int ans=0; 
 	    while(n != 50){
 	        if(n<50){
 	            n+=2;
