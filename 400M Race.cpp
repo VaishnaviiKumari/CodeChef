@@ -8,7 +8,7 @@ int main() {
     cin >> t;
     while (t--) {
         int x, y, z;
-        cin >> x >> y >> z;
+        cin >> x >> y >> z; 
 
         // Since higher speed means lower time, we need to find the minimum time
         if (x < y && x < z) 
