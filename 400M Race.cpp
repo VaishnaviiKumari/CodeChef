@@ -1,7 +1,7 @@
 //Difficulty:  548  
   
 #include <bits/stdc++.h>
-using namespace std;
+using namespace std; 
 
 int main() {
     int t;
