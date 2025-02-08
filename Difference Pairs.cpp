@@ -1,7 +1,7 @@
 // Difference Pairs
 
 #include <iostream> 
-#include <vector>
+#include <vector> 
 #include <algorithm>  
    
 int main() {  
