@@ -3,7 +3,7 @@
 #include <iostream>  
 #include <vector> 
 #include <algorithm>   
-   
+    
 int main() {  
     int T;
     std::cin >> T;
