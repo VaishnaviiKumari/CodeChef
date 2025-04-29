@@ -5,7 +5,7 @@
 #include <algorithm>   
      
 int main() {   
-    int T;
+    int T; 
     std::cin >> T;
     
     while (T--) {
