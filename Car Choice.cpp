@@ -6,7 +6,7 @@ int main() {
 	int t;   
 	cin>>t;          
  	while(t--){  
-	    float x1,x2,y1,y2;
+	    float x1,x2,y1,y2; 
 	    cin>>x1>>x2>>y1>>y2; 
 	     
 	    float a = y1/x1;
