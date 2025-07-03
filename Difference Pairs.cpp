@@ -16,9 +16,7 @@ int main() {
         for (int i = 0; i < N; i++) {
             std::cin >> A[i];
         }
-        
         std::sort(A.begin(), A.end());
-        
         int i = 0, j = 0, match = 0;
         while (i < N && j < N) {
             int D = A[j] - A[i];
@@ -31,9 +29,7 @@ int main() {
                 j++;
             }
         }
-        
         std::cout << match << std::endl;
     }
-    
     return 0;
 }
