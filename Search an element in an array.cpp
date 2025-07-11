@@ -5,9 +5,7 @@ int main() {
 	// your code goes here 
 	int N,X;
 	cin>>N>>X;    
-	 
 	bool found=false; 
-	
 	for(int i=0;i<N;i++){ 
 	    int element; 
 	    cin>>element;
@@ -16,11 +14,9 @@ int main() {
 	        break;
 	    }
 	}
-	
 	if(found){
 	    cout<<"YES"<<endl;
 	}
-	
 	else{
 	    cout<<"NO"<<endl;
 	}
